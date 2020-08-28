@@ -1,2 +1,2 @@
-# altaf99.github.io
+# Altaf Shaikh
 This is my portfolio website
